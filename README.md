@@ -1,4 +1,3 @@
-Read Instruction Document
 My Final Assignment in my UpGrad IIIT Blockchain Certificate.
 
 I had to build a Blockchain Solution addressing the issue of drug counterfeiting in a pharmaceutical supply chain. The requirement involved using Hyperledger Fabric.
@@ -18,4 +17,4 @@ The requirements involved:
 1. Company Registration
 2. Drug Registration
 3. Drug Transfer
-4. View Lifecycle
+4. View Lifecycle of a Drug
